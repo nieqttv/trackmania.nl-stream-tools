@@ -1,0 +1,10 @@
+[meta]
+name = "Trackmania.nl Presence"
+author = "nieqtv"
+category = "Utilities"
+version = "0.3.1"
+siteid = 877
+
+[script]
+dependencies = ["NadeoServices"]
+timeout = 0
